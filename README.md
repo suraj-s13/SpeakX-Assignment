@@ -53,6 +53,7 @@ Two models were trained and evaluated:
 1️⃣ **`Random Forest Classifier:`**
    - Used 100 trees in the forest.
    - Achieved an accuracy of 79.34%, precision of 65.29%, recall of 46.91%, and F1 score of 54.60%.
+
 2️⃣ **`Logistic Regression:`**
    - Achieved an accuracy of 81.61%, precision of 67.81%, recall of 58.17%, and F1 score of 62.62%.
 
